@@ -1,6 +1,7 @@
 # Indian Parliament
 Secured the third position in Coding Club, IITG "7 days of modeling challenge".
 ![ec7592e3-bbfc-45df-a7b0-823d74638cfc](https://user-images.githubusercontent.com/91874598/146075280-1f272270-8e21-4c33-a050-319595d4bec0.JPEG)
+![coding club modelling challenge](https://user-images.githubusercontent.com/91874598/146077047-00ad749f-856e-4caa-8ba3-f36176b14fdc.png)
 
 # Mjolnir
 Recieved appreciation from Robotics club IITG for this.
